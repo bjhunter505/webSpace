@@ -1,0 +1,44 @@
+﻿body {
+    background-image: url("https://www.w3schools.com/cssref/paper.gif");
+    background-color: #cccccc;
+    font: 15px Montserrat, sans-serif;
+}
+
+hr {
+    background-color: white;
+    border: 3px dotted;
+    border-style: none none dotted;
+    width: 30px;
+    color: grey
+}
+
+p {
+    font: 15px Montserrat, sans-serif;
+}
+
+h1 {
+    font: 32px Montserrat, sans-serif;
+}
+
+h2 {
+    font: 20px Montserrat, sans-serif;
+}
+
+table,
+td {
+    border: 0px solid #333;
+    border-spacing: 10px;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+
