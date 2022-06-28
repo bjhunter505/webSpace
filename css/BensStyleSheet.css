@@ -1,7 +1,9 @@
-﻿body {
+﻿/*######################## TAG SELECTORS ########################*/
+body {
     background-image: url("https://www.w3schools.com/cssref/paper.gif");
     background-color: #cccccc;
     font: 15px Montserrat, sans-serif;
+    color: rgb(63, 78, 79);
 }
 
 hr {
@@ -14,6 +16,7 @@ hr {
 
 p {
     font: 15px Montserrat, sans-serif;
+    color: rgb(44, 54, 57);
 }
 
 h1 {
@@ -22,6 +25,7 @@ h1 {
 
 h2 {
     font: 20px Montserrat, sans-serif;
+    color: rgb(44, 54, 57);
 }
 
 table,
@@ -30,15 +34,26 @@ td {
     border-spacing: 10px;
 }
 
-table.center {
-    margin-left: auto;
-    margin-right: auto;
-}
-
 thead,
 tfoot {
     background-color: #333;
     color: #fff;
 }
 
+/*####################### CLASS SELECTORS ########################*/
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(194, 222, 209);
+}
+
+.rounded {
+    border-radius: 20%;
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+/*####################### ID  SELECTORS ##########################*/
 
