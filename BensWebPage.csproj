@@ -39,6 +39,11 @@
     <Content Include="css\BensStyleSheet.css" />
     <Content Include="css\readme.txt" />
     <Content Include="ContactDetails.html" />
+    <Content Include="images\contact-us.png" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\linkedin.jpg" />
+    <Content Include="images\Seek.png" />
+    <Content Include="images\square-linkedin.png" />
     <Content Include="index.html" />
     <Content Include="ProfessionalExperience.html" />
     <Content Include="images\pirate_ben.JPG" />
