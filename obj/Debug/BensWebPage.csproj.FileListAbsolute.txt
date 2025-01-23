@@ -1,0 +1,3 @@
+C:\Users\Ben\VisualStudio\sources\repos\webSpace\obj\Debug\BensWebPage.csproj.AssemblyReference.cache
+C:\Users\Ben\VisualStudio\sources\repos\webSpace\obj\Debug\BensWebPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\VisualStudio\sources\repos\webSpace\obj\Debug\BensWebPage.csproj.CoreCompileInputs.cache

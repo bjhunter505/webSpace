@@ -36,11 +36,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HomePage.html" />
+    <Content Include="css\BensStyleSheet.css" />
+    <Content Include="css\readme.txt" />
     <Content Include="ContactDetails.html" />
     <Content Include="ProfessionalExperience.html" />
     <Content Include="images\pirate_ben.JPG" />
-    <Content Include="BensStyleSheet.css" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
