@@ -39,6 +39,7 @@
     <Content Include="css\BensStyleSheet.css" />
     <Content Include="css\readme.txt" />
     <Content Include="ContactDetails.html" />
+    <Content Include="index.html" />
     <Content Include="ProfessionalExperience.html" />
     <Content Include="images\pirate_ben.JPG" />
   </ItemGroup>
