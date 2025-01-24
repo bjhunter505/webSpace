@@ -136,21 +136,21 @@ img:hover {
 }
 
 .programmer-image {
-    margin-top: 50px;
+    margin-top: 0px;
     margin-left: 50px;
     margin-right: 0px;
     float: right;
 }
 
 .project-manager-image {
-    margin-top: 50px;
+    margin-top: 0px;
     margin-left: 0px;
     margin-right: 50px;
     float: left;
 }
 
 .engineer-image {
-    margin-top: 50px;
+    margin-top: 0px;
     margin-left: 50px;
     margin-right: 0px;
     float: right;
