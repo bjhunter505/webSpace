@@ -115,11 +115,6 @@ img:hover {
     display: inline-block;
     flex-wrap: wrap;
     align-content: center;
-    text-align: center
-}
-
-.list-left {
-    text-align: left;
 }
 
 .profile-pic {
