@@ -4,7 +4,6 @@ body {
     background-color: #cccccc;
     font: 15px Montserrat, sans-serif;
     color: rgb(63, 78, 79);
-    text-align:center
 }
 
 hr {
@@ -94,6 +93,7 @@ img:hover {
     width: 100%;
     height: 60%;
     min-height: 200px;
+    align-content: center;
 }
 
 .bottom-container {
@@ -106,6 +106,7 @@ img:hover {
     width: 100%;
     height: 20%;
     min-height: 200px;
+    align-content: center;
 }
 
 .role-row {
@@ -114,6 +115,7 @@ img:hover {
     display: inline-block;
     flex-wrap: wrap;
     align-content: center;
+    text-align: center
 }
 
 .list-left {
