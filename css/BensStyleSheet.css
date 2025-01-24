@@ -104,6 +104,7 @@ img:hover {
     height: 60%;
     min-height: 200px;
     align-content: center;
+    text-align: center;
 }
 
 .bottom-container {
