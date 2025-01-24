@@ -1,7 +1,6 @@
 ﻿/*######################## TAG SELECTORS ########################*/
 body {
-    background-image: url("https://www.w3schools.com/cssref/paper.gif");
-    background-color: #cccccc;
+    background-color: rgb(71, 181, 255);
     font: 15px Montserrat, sans-serif;
     color: rgb(63, 78, 79);
 }
