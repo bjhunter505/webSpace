@@ -79,6 +79,7 @@ img:hover {
     background-color: rgb(227, 253, 253);
     width: 100%;
     align-content: center;
+    text-align: center;
 }
 .top-container {
     position: relative;
@@ -116,6 +117,7 @@ img:hover {
     height: 20%;
     min-height: 200px;
     align-content: center;
+    text-align: center;
 }
 
 .role-row {
