@@ -142,6 +142,7 @@ img:hover {
     width: 30%;
     height: auto;
     max-width: 250px;
+    max-height: 250px;
 }
 
 .project-manager-image {
@@ -152,6 +153,7 @@ img:hover {
     width: 30%;
     height: auto;
     max-width: 250px;
+    max-height: 250px;
 }
 
 .engineer-image {
@@ -162,6 +164,7 @@ img:hover {
     width: 30%;
     height: auto;
     max-width: 250px;
+    max-height: 250px;
 }
 
 
