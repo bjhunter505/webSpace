@@ -122,7 +122,7 @@ img:hover {
 }
 
 .role-row {
-    position: center;
+    position: relative;
     margin: auto;
     max-inline-size: 80%;
     display: inline-block;
