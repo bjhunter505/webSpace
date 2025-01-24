@@ -56,7 +56,6 @@ textarea {
 table.center {
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(194, 222, 209);
 }
 
 .list-left {
@@ -136,24 +135,30 @@ img:hover {
 }
 
 .programmer-image {
-    margin-top: 0px;
+    margin-top: 50px;
     margin-left: 50px;
     margin-right: 0px;
     float: right;
+    width: 30%;
+    height: auto;
 }
 
 .project-manager-image {
-    margin-top: 0px;
+    margin-top: 50px;
     margin-left: 0px;
     margin-right: 50px;
     float: left;
+    width: 30%;
+    height: auto;
 }
 
 .engineer-image {
-    margin-top: 0px;
+    margin-top: 50px;
     margin-left: 50px;
     margin-right: 0px;
     float: right;
+    width:30%;
+    height:auto;
 }
 
 
