@@ -72,15 +72,13 @@ img:hover {
 }
 
 .roles-container {
-    position: center
-    margin-top: 0;
+    position: center margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
     padding-bottom: 0;
     background-color: rgb(227, 253, 253);
     width: 100%;
-    height: 20%;
-    min-height: 200px;
+    align-content: center;
 }
 .top-container {
     position: relative;
