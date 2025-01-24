@@ -121,8 +121,9 @@ img:hover {
 }
 
 .role-row {
+    position: center;
     margin: auto;
-    max-width: 50%;
+    max-width: 80%;
     display: inline-block;
     flex-wrap: wrap;
     align-content: center;
