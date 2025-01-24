@@ -67,7 +67,7 @@ select {
 textarea {
     width: 80%;
     height: 150px;
-    max-width: 400px;
+    max-width: 200px;
     padding: 12px 20px;
     box-sizing: border-box;
     border: 2px solid #ccc;
