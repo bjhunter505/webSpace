@@ -40,10 +40,34 @@ tfoot {
     color: #fff;
 }
 
+input[type=text] {
+    width: 150px;
+    padding: 3px 20px 3px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=email] {
+    width: 150px;
+    padding: 3px 20px 3px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+}
+
+select {
+    width: 100px;
+    height: 25px;
+}
+
 textarea {
-    width: 100%;
+    width: 800%;
     height: 150px;
-    padding: 12px 20px;
+    max-width: 400px padding: 12px 20px;
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
@@ -69,6 +93,16 @@ img:hover {
     opacity: 0.5;
 }
 
+.message-container {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: rgb(227, 253, 253);
+    width: 100%;
+}
+
 .roles-container {
     position: center;
     margin-top: 0;
@@ -80,6 +114,7 @@ img:hover {
     align-content: center;
     text-align: center;
 }
+
 .top-container {
     position: relative;
     margin-top: 0;
