@@ -139,8 +139,8 @@ img:hover {
     margin-left: 50px;
     margin-right: 0px;
     float: right;
-    width: 30%;
-    height: auto;
+    width: auto;
+    height: 30%;
     max-height: 250px;
 }
 
@@ -149,8 +149,8 @@ img:hover {
     margin-left: 0px;
     margin-right: 50px;
     float: left;
-    width: 30%;
-    height: auto;
+    width: auto;
+    height: 30%;
     max-height: 250px;
 }
 
@@ -159,8 +159,8 @@ img:hover {
     margin-left: 50px;
     margin-right: 0px;
     float: right;
-    width: 30%;
-    height: auto;
+    width: auto;
+    height: 30%;
     max-height: 250px;
 }
 
